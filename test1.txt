@@ -1,3 +1,17 @@
 left:this is a play boy.
 what are you doing?
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 we are boys!
+=======
+public static void main(String[] args){
+	int a = 2;
+	System.out.println(a);
+}
+>>>>>>> Stashed changes
+=======
+public static void main(String[] args){
+	int a = 2;
+	System.out.println(a);
+}
+>>>>>>> Stashed changes
