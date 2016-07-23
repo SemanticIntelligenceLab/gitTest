@@ -8,3 +8,11 @@ public static void main(String[] args){
 ert
 
 rty
+public class Note(
+	private Integer id;
+	private String content;
+	
+	public String getContent(){
+		return content;
+	}
+)
