@@ -6,8 +6,9 @@ public static void main(String[] args){
 	System.out.println(a);
 }
 ert
-
+tri001:start
 rty
+tri001:end
 public class Note(
 	private Integer id;
 	private String content;
@@ -16,3 +17,4 @@ public class Note(
 		return content;
 	}
 )
+tri001:wode
