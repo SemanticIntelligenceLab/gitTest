@@ -7,6 +7,9 @@ public static void main(String[] args){
 }
 ert
 tri001:start
+test:123pulihc
+skjdkjdkjdfkjdkdk
+dkjfkdjkfdjkjf
 rty
 tri001:end
 public class Note(
