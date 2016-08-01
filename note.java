@@ -10,4 +10,7 @@ public class House(
 	public void getTest1(){
 		return test1;
 	}
+	public void getTri001(){
+		return test1;
+	}
 )
