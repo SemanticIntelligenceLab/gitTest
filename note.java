@@ -3,6 +3,7 @@ public class House(
 	private String address;
 	private int test;
 	private String test1;
+	private int tri001;
 	
 	public String getAddress(){
 		return address;
