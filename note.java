@@ -6,4 +6,7 @@ public class House(
 	public String getAddress(){
 		return address;
 	}
+	public void getTest1(){
+		return test1;
+	}
 )
