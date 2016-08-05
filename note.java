@@ -4,6 +4,8 @@ public class House(
 	private int test;
 	private String test1;
 	private int tri001;
+	private int stash;
+	private int ceshi1;
 	
 	public String getAddress(){
 		return address;
