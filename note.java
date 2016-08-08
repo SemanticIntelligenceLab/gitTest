@@ -6,6 +6,8 @@ public class House(
 	private int tri001;
 	private int stash;
 	private int ceshi1;
+	private int index;
+	private String zhenbuzhidao;
 	
 	public String getAddress(){
 		return address;
